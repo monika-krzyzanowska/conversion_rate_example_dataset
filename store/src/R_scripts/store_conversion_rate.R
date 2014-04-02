@@ -7,7 +7,7 @@ campaign2 = "flyer"
 
 
 #uploading data
-data = read.csv("store conversion rate dataset.csv", sep=";")
+data = read.table("store_conversion_rate_dataset.txt", sep="\t", header=TRUE)
 
 SUBSET1 = subset(data,SOURCE==campaign1)
 SUBSET2 = subset(data,SOURCE==campaign2)
