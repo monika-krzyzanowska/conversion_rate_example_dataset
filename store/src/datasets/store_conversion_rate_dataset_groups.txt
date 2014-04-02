@@ -1,0 +1,204 @@
+#This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+#To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+EVENT	NUMBER OF PEOPLE	GENDER	ESTIMATED AGE	CAMPAIGN	ENTER	BUY	PRODUCT MARGIN	CAMPAIGN COST	BUYER'S GENDER	BUYER'S AGE	PAYMENT METHOD	DATE
+1	3	male	16	street	0	0	0	0				02/01/2014
+2	4	mixed	18	street	0	0	0	0				02/01/2014
+3	1	male	58	flyer	0	0	0	-0.1				02/01/2014
+4	2	mixed	35	street	1	0	0	0				03/01/2014
+5	1	male	32	flyer	0	0	0	-0.1				03/01/2014
+6	2	male	16	flyer	0	0	0	-0.1				03/01/2014
+7	1	female	40	street	0	0	0	0				03/01/2014
+8	2	female	27	flyer	0	0	0	-0.1				03/01/2014
+9	2	mixed	55	flyer	0	0	0	-0.1				03/01/2014
+10	1	female	51	street	0	0	0	0				03/01/2014
+11	1	female	17	street	1	0	0	0				03/01/2014
+12	1	female	67	flyer	0	0	0	-0.1				03/01/2014
+13	2	female	39	street	0	0	0	0				03/01/2014
+14	1	male	27	street	1	0	0	0				03/01/2014
+15	1	female	62	flyer	0	0	0	-0.1				04/01/2014
+16	1	male	66	flyer	1	1	19.99	-0.1	male	66	credit card	04/01/2014
+17	2	mixed	64	flyer	0	0	0	-0.1				04/01/2014
+18	1	female	20	street	0	0	0	0				04/01/2014
+19	2	female	64	street	1	0	0	0				04/01/2014
+20	1	female	39	flyer	1	0	0	-0.1				04/01/2014
+21	1	male	46	flyer	0	0	0	-0.1				04/01/2014
+22	2	female	46	street	0	0	0	0				04/01/2014
+23	4	female	17	street	1	1	2.99	0	female	18	cash	04/01/2014
+24	2	male	34	flyer	1	1	8.99	-0.1	male	35	cash	04/01/2014
+25	1	male	47	flyer	0	0	0	-0.1				04/01/2014
+26	2	female	69	street	0	0	0	0				04/01/2014
+27	2	mixed	22	flyer	0	0	0	-0.1				07/01/2014
+28	2	female	33	flyer	1	0	0	-0.1				08/01/2014
+29	2	mixed	42	flyer	0	0	0	-0.1				08/01/2014
+30	3	male	19	street	1	0	0	0				08/01/2014
+31	1	female	33	street	1	1	7.99	0	female	33	credit card	09/01/2014
+32	1	male	67	flyer	1	0	0	-0.1				09/01/2014
+33	2	mixed	55	flyer	0	0	0	-0.1				09/01/2014
+34	1	female	24	flyer	0	0	0	-0.1				09/01/2014
+35	1	female	49	street	0	0	0	0				10/01/2014
+36	1	female	54	street	0	0	0	0				10/01/2014
+37	2	female	41	flyer	0	0	0	-0.1				10/01/2014
+38	2	mixed	66	street	1	1	10.99	0	male	68	credit card	10/01/2014
+39	1	female	49	street	0	0	0	0				10/01/2014
+40	1	female	48	flyer	0	0	0	-0.1				11/01/2014
+41	2	female	17	street	0	0	0	0				11/01/2014
+42	1	female	59	street	0	0	0	0				11/01/2014
+43	1	female	64	street	0	0	0	0				11/01/2014
+44	3	mixed	37	street	1	0	0	0				11/01/2014
+45	2	male	28	flyer	1	1	14.99	-0.1	male	27	credit card	11/01/2014
+46	2	mixed	51	flyer	0	0	0	-0.1				11/01/2014
+47	1	female	63	street	1	0	0	0				13/01/2014
+48	2	female	67	street	0	0	0	0				13/01/2014
+49	1	male	46	street	0	0	0	0				13/01/2014
+50	1	male	64	flyer	1	1	15.99	-0.1	male	64	credit card	13/01/2014
+51	2	male	67	flyer	1	0	0	-0.1				13/01/2014
+52	2	female	16	street	1	0	0	0				14/01/2014
+53	3	male	18	street	0	0	0	0				14/01/2014
+54	1	female	17	street	1	0	0	0				14/01/2014
+55	1	female	30	street	0	0	0	0				14/01/2014
+56	3	male	16	street	0	0	0	0				15/01/2014
+57	2	female	16	flyer	0	0	0	-0.1				15/01/2014
+58	1	female	19	street	0	0	0	0				15/01/2014
+59	1	male	18	flyer	0	0	0	-0.1				15/01/2014
+60	2	female	27	flyer	0	0	0	-0.1				16/01/2014
+61	1	male	64	street	0	0	0	0				16/01/2014
+62	2	female	35	street	0	0	0	0				16/01/2014
+63	1	female	26	street	0	0	0	0				16/01/2014
+64	1	male	45	flyer	1	1	9.99	-0.1	male	45	cash	16/01/2014
+65	2	mixed	21	flyer	1	1	14.99	-0.1	female	21	credit card	17/01/2014
+66	3	mixed	22	street	1	1	1.99	0	female	21	cash	17/01/2014
+67	1	male	52	street	1	0	0	0				17/01/2014
+68	3	mixed	30	street	0	0	0	0				17/01/2014
+69	1	male	56	flyer	0	0	0	-0.1				17/01/2014
+70	4	mixed	16	street	0	0	0	0				17/01/2014
+71	4	mixed	36	street	0	0	0	0				17/01/2014
+72	1	male	32	street	0	0	0	0				18/01/2014
+73	1	male	16	street	0	0	0	0				18/01/2014
+74	2	male	20	flyer	1	0	0	-0.1				18/01/2014
+75	2	mixed	39	street	0	0	0	0				18/01/2014
+76	2	female	40	street	1	1	14.99	0	female	41	credit card	18/01/2014
+77	1	female	49	street	1	0	0	0				18/01/2014
+78	1	male	22	flyer	0	0	0	-0.1				18/01/2014
+79	1	male	55	street	1	1	9.99	0	male	55	cash	18/01/2014
+80	2	female	66	street	1	0	0	0				18/01/2014
+81	2	mixed	16	street	0	0	0	0				18/01/2014
+82	1	male	60	street	0	0	0	0				18/01/2014
+83	2	male	17	street	1	0	0	0				18/01/2014
+84	1	male	20	street	0	0	0	0				18/01/2014
+85	1	male	23	flyer	0	0	0	-0.1				18/01/2014
+86	2	mixed	29	street	0	0	0	0				18/01/2014
+87	1	male	66	street	0	0	0	0				20/01/2014
+88	1	female	52	street	1	0	0	0				20/01/2014
+89	1	female	62	street	1	0	0	0				20/01/2014
+90	1	male	40	flyer	0	0	0	-0.1				20/01/2014
+91	1	male	17	flyer	0	0	0	-0.1				20/01/2014
+92	3	mixed	18	flyer	0	0	0	-0.1				20/01/2014
+93	1	male	50	street	1	0	0	0				20/01/2014
+94	1	female	26	street	1	1	3.99	0	female	26	cash	21/01/2014
+95	1	male	16	flyer	0	0	0	-0.1				21/01/2014
+96	2	male	44	flyer	0	0	0	-0.1				21/01/2014
+97	1	male	26	flyer	1	0	0	-0.1				21/01/2014
+98	2	female	21	street	0	0	0	0				21/01/2014
+99	1	male	46	flyer	1	1	13.99	-0.1	male	46	cash	21/01/2014
+100	1	male	22	street	0	0	0	0				21/01/2014
+101	2	male	21	flyer	0	0	0	-0.1				21/01/2014
+102	2	female	40	flyer	0	0	0	-0.1				22/01/2014
+103	2	mixed	72	street	1	1	12.99	0	female	70	credit card	22/01/2014
+104	2	mixed	66	flyer	0	0	0	-0.1				22/01/2014
+105	1	male	53	street	0	0	0	0				22/01/2014
+106	2	female	36	street	0	0	0	0				22/01/2014
+107	3	male	16	street	0	0	0	0				22/01/2014
+108	2	female	21	flyer	0	0	0	-0.1				22/01/2014
+109	5	male	24	flyer	1	0	0	-0.1				23/01/2014
+110	2	female	30	flyer	1	1	16.99	-0.1	female	29	credit card	23/01/2014
+111	2	mixed	35	flyer	1	0	0	-0.1				23/01/2014
+112	2	male	19	street	1	1	12.99	0	male	18	credit card	23/01/2014
+113	1	female	26	street	0	0	0	0				23/01/2014
+114	1	female	18	flyer	1	1	3.99	-0.1	female	18	cash	23/01/2014
+115	3	female	48	street	0	0	0	0				23/01/2014
+116	2	mixed	50	street	0	0	0	0				23/01/2014
+117	2	mixed	29	flyer	0	0	0	-0.1				23/01/2014
+118	2	male	18	flyer	1	0	0	-0.1				23/01/2014
+119	1	female	50	flyer	0	0	0	-0.1				23/01/2014
+120	1	female	21	flyer	0	0	0	-0.1				23/01/2014
+121	1	male	52	street	1	1	11.99	0	male	52	cash	24/01/2014
+122	2	female	17	street	1	0	0	0				24/01/2014
+123	3	mixed	35	flyer	1	1	9.99	-0.1	male	38	credit card	24/01/2014
+124	1	female	18	flyer	0	0	0	-0.1				24/01/2014
+125	2	mixed	40	street	0	0	0	0				24/01/2014
+126	2	female	20	street	0	0	0	0				24/01/2014
+127	1	female	17	street	0	0	0	0				24/01/2014
+128	2	male	60	flyer	1	1	9.99	-0.1	male	60	cash	24/01/2014
+129	1	female	33	street	0	0	0	0				24/01/2014
+130	2	mixed	35	street	1	0	0	0				24/01/2014
+131	3	male	28	flyer	0	0	0	-0.1				24/01/2014
+132	2	female	29	flyer	1	0	0	-0.1				24/01/2014
+133	3	female	18	flyer	1	1	3.99	-0.1	female	17	cash	24/01/2014
+134	2	female	45	street	1	1	2.99	0	female	43	cash	25/01/2014
+135	3	mixed	16	flyer	0	0	0	-0.1				25/01/2014
+136	2	female	63	street	0	0	0	0				25/01/2014
+137	2	male	22	street	0	0	0	0				25/01/2014
+138	3	male	23	flyer	0	0	0	-0.1				25/01/2014
+139	2	mixed	54	street	0	0	0	0				25/01/2014
+140	1	male	63	street	0	0	0	0				25/01/2014
+141	1	female	23	street	1	0	0	0				25/01/2014
+142	2	male	58	flyer	0	0	0	-0.1				25/01/2014
+143	2	male	31	flyer	1	1	7.99	-0.1	male	32	cash	25/01/2014
+144	1	male	27	flyer	0	0	0	-0.1				25/01/2014
+145	2	mixed	32	flyer	1	1	19.99	-0.1	male	32	credit card	25/01/2014
+146	2	mixed	48	flyer	0	0	0	-0.1				25/01/2014
+147	4	mixed	25	street	0	0	0	0				25/01/2014
+148	2	mixed	67	street	0	0	0	0				25/01/2014
+149	1	female	27	flyer	0	0	0	-0.1				25/01/2014
+150	2	female	46	street	1	0	0	0				25/01/2014
+151	2	mixed	29	street	1	0	0	0				25/01/2014
+152	3	female	16	street	0	0	0	0				27/01/2014
+153	1	male	57	flyer	1	1	9.99	-0.1	male	57	cash	27/01/2014
+154	2	mixed	65	flyer	0	0	0	-0.1				27/01/2014
+155	1	female	49	flyer	0	0	0	-0.1				27/01/2014
+156	2	female	40	flyer	0	0	0	-0.1				27/01/2014
+157	2	female	35	flyer	0	0	0	-0.1				28/01/2014
+158	4	female	16	street	0	0	0	0				28/01/2014
+159	3	female	18	street	0	0	0	0				28/01/2014
+160	1	male	58	flyer	0	0	0	-0.1				28/01/2014
+161	3	mixed	28	flyer	1	1	14.99	-0.1	female	27	credit card	28/01/2014
+162	1	male	54	flyer	0	0	0	-0.1				28/01/2014
+163	3	male	16	flyer	0	0	0	-0.1				29/01/2014
+164	2	male	32	street	0	0	0	0				29/01/2014
+165	3	female	30	street	1	1	14.99	0	female	29	credit card	29/01/2014
+166	2	female	20	flyer	1	0	0	-0.1				29/01/2014
+167	1	male	35	flyer	0	0	0	-0.1				29/01/2014
+168	1	female	46	flyer	0	0	0	-0.1				29/01/2014
+169	2	male	16	flyer	1	0	0	-0.1				29/01/2014
+170	1	male	59	flyer	0	0	0	-0.1				29/01/2014
+171	3	female	17	flyer	0	0	0	-0.1				30/01/2014
+172	2	mixed	61	street	0	0	0	0				30/01/2014
+173	3	mixed	26	street	0	0	0	0				30/01/2014
+174	2	female	43	flyer	0	0	0	-0.1				30/01/2014
+175	1	male	58	flyer	0	0	0	-0.1				30/01/2014
+176	2	male	21	flyer	0	0	0	-0.1				30/01/2014
+177	1	male	54	flyer	0	0	0	-0.1				30/01/2014
+178	3	male	20	flyer	0	0	0	-0.1				30/01/2014
+179	2	female	35	flyer	1	1	8.99	-0.1	female	33	cash	30/01/2014
+180	1	female	49	flyer	0	0	0	-0.1				30/01/2014
+181	5	mixed	20	street	0	0	0	0				30/01/2014
+182	1	female	16	street	0	0	0	0				30/01/2014
+183	2	mixed	42	flyer	0	0	0	-0.1				31/01/2014
+184	2	male	49	flyer	0	0	0	-0.1				31/01/2014
+185	3	male	16	flyer	0	0	0	-0.1				31/01/2014
+186	2	female	53	street	0	0	0	0				31/01/2014
+187	3	female	26	street	0	0	0	0				31/01/2014
+188	5	male	17	flyer	0	0	0	-0.1				31/01/2014
+189	2	female	38	flyer	0	0	0	-0.1				31/01/2014
+190	2	mixed	60	street	0	0	0	0				31/01/2014
+191	1	male	26	street	0	0	0	0				31/01/2014
+192	1	male	61	flyer	0	0	0	-0.1				31/01/2014
+193	3	female	24	flyer	1	0	0	-0.1				31/01/2014
+194	2	female	17	street	1	0	0	0				31/01/2014
+195	2	female	29	flyer	0	0	0	-0.1				31/01/2014
+196	1	female	32	street	1	0	0	0				31/01/2014
+197	1	female	64	street	0	0	0	0				31/01/2014
+198	1	male	53	flyer	0	0	0	-0.1				31/01/2014
+199	3	male	23	flyer	0	0	0	-0.1				31/01/2014
+200	2	mixed	35	flyer	1	1	17.99	-0.1	female	34	credit card	31/01/2014
