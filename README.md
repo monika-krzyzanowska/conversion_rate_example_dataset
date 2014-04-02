@@ -16,7 +16,7 @@ It covers three types of the conversion rate calculation:
 
 	CONVERSION_RATE_ENTRANCE = VISITS/TRAFFIC
 	
-### Transaction rate of a target ### 
+### Transaction rate of a target 
 
 	SALES: CONVERSION_RATE_STORE = TRANSACTIONS/VISITS
 	LEAD GENERATION: #_LEAD_COLLECTED/TOTAL_TRAFFIC
