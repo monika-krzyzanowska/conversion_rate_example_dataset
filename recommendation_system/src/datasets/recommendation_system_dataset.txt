@@ -1,0 +1,104 @@
+#This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+#To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+PEOPLE	TOPIC	WATCH VIDEO	REC TYPE	WATCH REC						
+1	culture	0.6	Item-Item	0						
+2	economy	0	Topic-Topic	1						
+3	politics	0	Slope One	0.7						
+4	culture	1	FunkSVD	0						
+5	politics	0.1	FunkSVD	0.8						
+6	europe	1	Topic-Topic	0.7						
+7	education	1	FunkSVD	0						
+8	europe	0.3	Topic-Topic	0						
+9	society	0.1	FunkSVD	1						
+10	politics	1	Item-Item	0.8						
+11	culture	1	Slope One	1						
+12	society	1	Slope One	0.6						
+13	society	1	Item-Item	0.8						
+14	politics	0.8	FunkSVD	1						
+15	politics	0	Slope One	1						
+16	europe	0.8	Slope One	0.2						
+17	politics	0	Topic-Topic	0						
+18	education	0	User-User	0.4						
+19	society	0	User-User	0.7						
+20	education	0.8	Item-Item	0						
+21	europe	1	User-User	1						
+22	europe	0.3	Topic-Topic	1						
+23	europe	1	Slope One	0.6						
+24	healthcare	0.8	Item-Item	0.6						
+25	education	1	Topic-Topic	1						
+26	europe	0	Item-Item	0.8						
+27	politics	0.5	Item-Item	1						
+28	culture	1	Item-Item	0.8						
+29	education	1	Slope One	0.6						
+30	society	0	Slope One	0.4						
+31	europe	0.4	Topic-Topic	0						
+32	europe	1	Item-Item	0						
+33	education	1	Item-Item	1						
+34	education	1	Slope One	1						
+35	economy	0	Slope One	0						
+36	culture	0.1	User-User	1						
+37	culture	0	Topic-Topic	0.9						
+38	politics	0.7	Slope One	0.5						
+39	europe	1	Item-Item	1						
+40	economy	0.2	Item-Item	0.2						
+41	politics	0	Slope One	0.8						
+42	healthcare	0.6	User-User	0						
+43	politics	0.3	User-User	0.1						
+44	politics	1	Topic-Topic	0						
+45	culture	0.1	Item-Item	1						
+46	politics	1	Item-Item	0.8						
+47	economy	0.7	User-User	0.2						
+48	politics	0	User-User	0.5						
+49	economy	1	Topic-Topic	0						
+50	education	0	Topic-Topic	1						
+51	education	0.5	Topic-Topic	0.6						
+52	culture	0.9	Topic-Topic	1						
+53	healthcare	0.2	Slope One	0.1						
+54	politics	1	User-User	1						
+55	healthcare	1	Item-Item	0.8						
+56	politics	0.2	Item-Item	0						
+57	culture	0	User-User	1						
+58	economy	0.3	Item-Item	0.8						
+59	culture	0	Item-Item	0						
+60	healthcare	0.9	FunkSVD	0						
+61	economy	0	Item-Item	0.2						
+62	culture	0.1	FunkSVD	0.5						
+63	politics	1	User-User	1						
+64	politics	0.4	Item-Item	0.3						
+65	politics	0.5	Slope One	0.8						
+66	politics	1	Item-Item	0.7						
+67	culture	1	Item-Item	0						
+68	culture	0.6	Item-Item	0.5						
+69	education	0	FunkSVD	0						
+70	europe	1	Topic-Topic	0.5						
+71	europe	0.9	Item-Item	0.7						
+72	society	0.4	Item-Item	1						
+73	politics	1	User-User	0						
+74	healthcare	1	Item-Item	1						
+75	society	0	User-User	0.1						
+76	europe	0.3	FunkSVD	1						
+77	society	0	FunkSVD	0.4						
+78	europe	0	FunkSVD	0						
+79	healthcare	1	FunkSVD	0						
+80	economy	1	Slope One	0.6						
+81	culture	0.4	Item-Item	1						
+82	education	0.7	Item-Item	1						
+83	culture	0.1	FunkSVD	1						
+84	healthcare	1	Topic-Topic	1						
+85	politics	0.8	Item-Item	1						
+86	society	0.1	Item-Item	0						
+87	europe	0.4	Item-Item	0.8						
+88	europe	0	Slope One	1						
+89	healthcare	1	Slope One	1						
+90	europe	1	User-User	1						
+91	europe	0.5	Item-Item	0						
+92	education	0.9	User-User	0.6						
+93	europe	0	Item-Item	0.8						
+94	education	1	Slope One	0.3						
+95	education	0	Item-Item	0						
+96	culture	1	Item-Item	0.5						
+97	politics	0.4	User-User	1						
+98	economy	1	Topic-Topic	0						
+99	culture	0.2	Slope One	0						
+100	europe	0	Item-Item	1						
