@@ -27,12 +27,15 @@ It is an equilibrium investment in advertising to encourage one more visitant to
 	EQUILIBRIUM_INVESTMENT = AVERAGE_PROFIT_PER_TRANSACTION*CONVERSION_RATE_STORE
 	EQUILIBRIUM_INVESTMENT = (SUM(DATASET$PROFIT))/VISITS
 	
+EXAMPLES
+========
+
 STORE CONVERSION RATE
-=====================
+---------------------
 For visualizing the calculation of the conversion rate it was used an example of a physical store, with parameters of two entrance campaigns: street traffic and flyer. The objective is to calculate automatically the effectiveness of each one.
 
-Format
-------
+### Format
+
 The data set consists of a 200x7 matrix and contains the following columns, where each of them represents the occurrence of a particular individual. There are three types of variables: categorical, binary and numerical. 
 The variables used for the calculus of conversion rate are:
 
@@ -43,3 +46,11 @@ The variables used for the calculus of conversion rate are:
 * buy - specifies whether the customer purchased a product in the store (0=doesn’t purchase, 1=purchase)
 * expense - if the customer has purchased a product, specifies how much money he spent
 * cost - the cost conditioned by the type of the entrance (cost per campaign per person)
+
+RECOMMENDATION SYSTEM CONVERSION RATE
+-------------------------------------
+
+The objective is to measure the effectiveness of a campaign of the product recommendation, in this case video content, to observe the rate of people that actually consume the recommended content. It takes into account five generic types of recommendations: Item-Item, User-User, FunkSVD, Slope One, Topic-Topic, comparing its effectivenesses.
+
+### Format
+
